@@ -81,4 +81,4 @@ GPU 2枚でモデルを動かし、実行用のソフト（Ollama）の設定で
 
 ## このほかに試したもの
 
-GitHubで公開されているツールも、気になったものをフォークして試しています。フォークしたものは、ほとんどを実際に使ってみました。[フォークしたリポジトリの一覧](https://github.com/MasterAnddy?tab=repositories&type=fork)で見られます。
+GitHubで公開されているツールも、気になったものにはスターを付けたり、フォークしたりして試しています。そのほとんどは、実際に触って試したものです。[フォークしたリポジトリの一覧](https://github.com/MasterAnddy?tab=repositories&type=fork)と[スターを付けたリポジトリの一覧](https://github.com/MasterAnddy?tab=stars)で見られます。
